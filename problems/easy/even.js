@@ -6,7 +6,7 @@ export const even = (xs) => {
 	// Your code here...
 
 	 return xs.filter((i) => i % 2 === 0);
-
+// filter
 }
 
 const tests = [
