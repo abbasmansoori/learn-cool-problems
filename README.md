@@ -1,4 +1,4 @@
-
+ 
 [![Node.js CI](https://github.com/abbasmansoori/learn-cool-problems/actions/workflows/node.js.yml/badge.svg?branch=main&event=push)](https://github.com/abbasmansoori/learn-cool-problems/actions/workflows/node.js.yml) 
 [![Node.js CI](https://github.com/abbasmansoori/learn-cool-problems/actions/workflows/node.js.yml/badge.svg?branch=main&event=pull_request)](https://github.com/abbasmansoori/learn-cool-problems/actions/workflows/node.js.yml) 
 
