@@ -4,7 +4,8 @@
 
 export const even = (xs) => {
 	// Your code here...
-	return []
+
+	 return xs.filter((i) => i % 2 === 0);
 
 }
 
